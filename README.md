@@ -28,6 +28,7 @@ I'm a CS student from Chile. I build full-stack web applications, developer tool
 
 | Repo | What it is |
 |---|---|
+| [bst](https://github.com/objval/bst) | Universal music downloader — Beatport, SoundCloud, Spotify, YouTube with full metadata tagging — Python |
 | [info1167-robotica](https://github.com/objval/info1167-robotica) | Robotics simulation — MDP, SMDP, Q-Learning with Pygame |
 | [FH6-DBDUMPER](https://github.com/objval/FH6-DBDUMPER) | Forza Horizon 6 memory tool — C++ |
 | [osu-helper](https://github.com/objval/osu-helper) | Relax & assist tool for osu!lazer — C++ |
@@ -52,6 +53,7 @@ Estudiante de informatica en Chile. Construyo aplicaciones web full-stack, herra
 
 | Repo | Que es |
 |---|---|
+| [bst](https://github.com/objval/bst) | Descargador universal de musica — Beatport, SoundCloud, Spotify, YouTube con metadata completo — Python |
 | [info1167-robotica](https://github.com/objval/info1167-robotica) | Simulacion robotica — MDP, SMDP, Q-Learning con Pygame |
 | [FH6-DBDUMPER](https://github.com/objval/FH6-DBDUMPER) | Herramienta de memoria Forza Horizon 6 — C++ |
 | [osu-helper](https://github.com/objval/osu-helper) | Herramienta relax/assist para osu!lazer — C++ |
